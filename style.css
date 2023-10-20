@@ -21,3 +21,9 @@ p{
     color: fuchsia;
     text-decoration: italic;
 }
+.rodape{
+    background-color: steelblue;
+    color: mediumorchid;
+    text-align: center;
+    border: double 2px mediumslateblue;
+}
